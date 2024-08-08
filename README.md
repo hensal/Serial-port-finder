@@ -1,6 +1,11 @@
 # Serial-port-finder
 This repository contains a simple Ubuntu desktop application built using Tkinter, a Python GUI toolkit. The application allows users to easily list all connected serial ports on their system with the click of a button.
 
+Requirements  <br>
+Python 3.x  <br>
+Tkinter library  <br>
+PySerial library <br>
+
 Ubuntu version: "18.04.6 LTS (Bionic Beaver)" 
 Python version: 3.10 
 Tkinter version: 8.6 
